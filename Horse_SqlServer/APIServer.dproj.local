@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/29 09:36:46.000.792,=C:\Users\TRABALHO2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/28 22:17:31.000.003,=C:\Users\TRABALHO2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 21:31:26.000.017,D:\BdMg\MarceloVidal_API\APIServer.dproj=C:\Users\TRABALHO2\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2024/02/06 23:49:26.000.502,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 23:49:38.000.942,D:\BdMg\MarceloVidal_API\Controller\Controller_Tarefas.pas=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 08:36:24.000.397,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 08:38:37.000.424,D:\BdMg\MarceloVidal_API\Unit1.dfm=D:\BdMg\MarceloVidal_API\Providers\uDmConnection.dfm</Transaction>
+    <Transaction>2024/02/07 08:38:37.000.424,D:\BdMg\MarceloVidal_API\Unit1.pas=D:\BdMg\MarceloVidal_API\Providers\uDmConnection.pas</Transaction>
+    <Transaction>2024/02/07 08:41:25.000.973,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 08:42:25.000.357,D:\BdMg\MarceloVidal_API\Unit1.pas=D:\BdMg\MarceloVidal_API\Services\uTarefasServices.pas</Transaction>
+    <Transaction>2024/02/07 08:42:25.000.357,D:\BdMg\MarceloVidal_API\Unit1.dfm=D:\BdMg\MarceloVidal_API\Services\uTarefasServices.dfm</Transaction>
+    <Transaction>2024/02/07 08:48:23.000.470,D:\BdMg\MarceloVidal_API\Services\uTarefasServices.pas=D:\BdMg\MarceloVidal_API\Model\uModel_TarefasServices.pas</Transaction>
+    <Transaction>2024/02/07 08:48:23.000.470,D:\BdMg\MarceloVidal_API\Services\uTarefasServices.dfm=D:\BdMg\MarceloVidal_API\Model\uModel_TarefasServices.dfm</Transaction>
+    <Transaction>2024/02/07 09:39:02.000.131,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 09:39:55.000.206,D:\BdMg\MarceloVidal_API\Unit1.pas=D:\BdMg\MarceloVidal_API\Utils\uConstantes.pas</Transaction>
+    <Transaction>2024/02/08 09:33:42.000.883,D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.pas=D:\BdMg\MarceloVidal_API\Model\uModel_TarefasServices.pas</Transaction>
+    <Transaction>2024/02/08 09:33:42.000.883,D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.dfm=D:\BdMg\MarceloVidal_API\Model\uModel_TarefasServices.dfm</Transaction>
+    <Transaction>2024/02/08 09:38:54.000.316,D:\BdMg\MarceloVidal_API\Utils\uConstantes.pas=D:\BdMg\MarceloVidal_API\Utils\Constantes.pas</Transaction>
+    <Transaction>2024/02/08 16:49:21.000.030,D:\BdMg\MarceloVidal_API\Utils\Funcoes.pas=D:\BdMg\MarceloVidal_API\Utils\Constantes.pas</Transaction>
+    <Transaction>2024/02/09 09:46:01.000.132,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/09 09:46:24.000.959,D:\BdMg\MarceloVidal_API\Unit1.pas=D:\BdMg\MarceloVidal_API\Model\Model_Tarefas.pas</Transaction>
+    <Transaction>2024/02/09 11:30:28.000.377,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/09 11:30:57.000.869,D:\BdMg\MarceloVidal_API\Model\Model_Conexao.pas=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/09 11:46:43.000.201,D:\BdMg\MarceloVidal_API\Providers\uDmConnection.pas=</Transaction>
+    <Transaction>2024/02/09 12:28:12.000.054,D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.pas=</Transaction>
+    <Transaction>2024/02/09 12:28:33.000.748,=D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.pas</Transaction>
+    <Transaction>2024/02/09 12:28:57.000.235,D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.pas=</Transaction>
+    <Transaction>2024/02/09 12:29:46.000.704,=D:\BdMg\MarceloVidal_API\Unit1.pas</Transaction>
+    <Transaction>2024/02/09 12:30:07.000.815,D:\BdMg\MarceloVidal_API\Unit1.pas=D:\BdMg\MarceloVidal_API\Model\Model_TarefasServices.pas</Transaction>
+  </Transactions>
+</BorlandProject>
