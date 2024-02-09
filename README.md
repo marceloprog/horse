@@ -1,5 +1,6 @@
 # horse
 api horse com sqlserver
+Desenvolvido no Rad Studio 10.2 Tokio
 
 Configurar PARAMETROS.INI que fica na pasta do Executavel
 
