@@ -1,5 +1,6 @@
 # horse
 api horse com sqlserver
+
 Configurar PARAMETROS.INI que fica na pasta do Executavel
 
 Autenticacao da api
